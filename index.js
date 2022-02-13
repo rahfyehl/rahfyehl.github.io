@@ -15,6 +15,11 @@ var randomStrings = [
     "How hardworking and resilient you are.",
     "Your love of shoes.",
     "Your worry if snowmen get cold.",
+    "How we've grown and continue to grow with eachother.",
+    "How much we can eat together.",
+    "How you have levelled up my fashion sense.",
+    "Your 'British' accent.",
+    "How excited you get when we go to a stationery store.",
 
   ];
 
