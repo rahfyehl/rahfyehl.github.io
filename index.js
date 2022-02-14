@@ -1,7 +1,7 @@
 var randomStrings = [
     "The way you laugh.",
     "Your heart shaped nostrils.",
-    "The warmth ßof your hugs.",
+    "The warmth of your hugs.",
     "Our thermodynamic equilibrium.",
     "How perfectly your beauty marks are placed on your face.",
     "The face you make when you see a cute cat.",
